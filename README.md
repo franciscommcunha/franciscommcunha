@@ -3,8 +3,9 @@
 # About me 🤖 
 
 My name is Francisco, a computer nerd, but you can call me Chico. 
-I am an Android developer at Talkdesk, where I started in September 2019, developing in Kotlin.
-Before that, I graduated and mastered in Computer Engineering and Telematics at the University of Aveiro, from 2014-2019.
+I love Android development and I worked as an Android developer from September 2019 until February 2023 at Talkdesk. Here I learned several things and I also had the chance to develop a KMM app. I also had the change to move to a backend team where I could learn some other tools (docker, spring, etc...)
+At the moment I work at Usercentrics GMBH, where I am a member of the mobile team. Here I am helping to improve our sdk for mobile apps and also develop some other products.
+Before all of this, I graduated and mastered in Computer Engineering and Telematics at the University of Aveiro, from 2014-2019.
 
 # Projects I have been working 💻
 You can see some of my projects in my profile developed during my academic course.
